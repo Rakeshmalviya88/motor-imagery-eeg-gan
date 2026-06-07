@@ -1,0 +1,15 @@
+# Ignore dataset folders (common names)
+BCICIV_2a_gdf/
+BCIIV_2a_gdf/
+BCICIV_2a_gdf.zip
+
+# Ignore preprocessed datasets
+X_preprocessed.npy
+X_preprocessed2.npy
+y.npy
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# papers
+papers/
