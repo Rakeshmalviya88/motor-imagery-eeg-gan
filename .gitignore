@@ -7,9 +7,17 @@ BCICIV_2a_gdf.zip
 X_preprocessed.npy
 X_preprocessed2.npy
 y.npy
+X_subjects.npy
+y_subjects.npy
+subject_ids.npy
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
 # papers
 papers/
+others/
+
+# environment folders
+.venv/
+venv/
