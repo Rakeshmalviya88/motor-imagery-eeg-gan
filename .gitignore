@@ -15,7 +15,6 @@ subject_ids.npy
 .ipynb_checkpoints/
 
 # papers
-papers/
 others/
 
 # environment folders
