@@ -11,6 +11,26 @@ X_subjects.npy
 y_subjects.npy
 subject_ids.npy
 
+code_subjectwise.ipynb
+code_version3.ipynb
+code_version4.ipynb
+code_version6_100.ipynb
+code.ipynb
+sample.ipynb
+
+X_preprocessed.npy
+X_preprocessed2.npy
+X_subjects.npy
+X_test_preprocessed.npy
+X_train_preprocessed.npy
+y_subjects.npy
+y_test.npy
+y_train.npy
+y.npy
+notebook_exp.md
+read.md
+cmd.md
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
