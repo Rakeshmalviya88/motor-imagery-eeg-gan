@@ -41,3 +41,8 @@
    jupyter notebook
    ```
    Or open the files in VS Code and select the `.venv` kernel to run cells interactively.
+
+
+
+Sweep 2 :
+.venv\Scripts\python "baseline_parameter_sweep_2.py"
