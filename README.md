@@ -10,15 +10,6 @@ The complete implementation is available in the Jupyter Notebook: [code_version1
 
 The project is structured into the following pipeline:
 
-```mermaid
-graph TD
-    A[Phase 1: Preprocessing & Filtering] --> B[Phase 2: Train-Test Split]
-    B --> C[Phase 3: Conditional WGAN-GP Training]
-    C --> D[Phase 4: Critic-Based Selective Filtering]
-    D --> E[Phase 5: CSP Spatial Feature Extraction]
-    E --> F[Phase 6: Z-Score Normalization]
-    F --> G[Phase 7: EEGNet CNN Training & Evaluation]
-```
 
 ### Phase 1: Preprocessing & Filtering
 * **Dataset:** BCI Competition IV Dataset 2a (Subjects A01 to A09).
